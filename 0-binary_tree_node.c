@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * _height - Measures the height of a binary tree
+ * binary_tree_node - Create a node
  *
  * @parent: binary tree
  * @value: new node value
